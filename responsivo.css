@@ -1,0 +1,15 @@
+@media(max-width:999px){
+.section .grid{
+    display: flex;
+    flex-wrap: wrap;
+}.section .grid h1{
+    position: relative;
+    text-align: center;
+}.section .grid img{
+width: 500px;
+}.section .grid video{
+    width: 300px;
+}.main .main-child{
+    display: none;
+}
+}
