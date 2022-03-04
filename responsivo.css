@@ -11,5 +11,19 @@ width: 500px;
     width: 300px;
 }.main .main-child{
     display: none;
-}
+}.img-tv .video-tv2 {
+    position: absolute;
+    width: 400px;
+   top: -100px;
+    left: 100px;
+    height: 450px;
+  }.img-tv .video-tv{
+    position: absolute;
+    width: 400px;
+   top: -70px;
+    left: 100px;
+    height: 500px;
+  }
+
+
 }

@@ -214,12 +214,20 @@
 
 .video-tv {
   position: absolute;
-  width: 400px;
-  top: 80px;
-  left: 70px;
+  width: 500px;
+  top: 30px;
+  left: 90px;
+  height: 400px;
 
 }
-
+.video-tv2 {
+ 
+  position: absolute;
+  width: 400px;
+  bottom: 110px;
+  left: 110px;
+  height: 450px;
+}
 .download .grid > div:first-child {
   order: 2;
 }
